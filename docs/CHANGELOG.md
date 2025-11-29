@@ -1,4 +1,4 @@
-# @layerzerolabs/devtools-docs
+8# @layerzerolabs/devtools-docs
 
 ## 0.0.3
 
@@ -10,4 +10,4 @@
 
 ### Patch Changes
 
-- c44e657: update evm networks used
+- c44e657: update evm networks use
